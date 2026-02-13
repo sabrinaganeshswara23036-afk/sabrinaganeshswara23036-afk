@@ -40,3 +40,16 @@ Jika kamu tertarik untuk berkenalan denganku, silakan terhubung melalui
 ✨ Terima kasih sudah mengunjungi profil saya!  
 Semoga kita bisa belajar dan berkembang bersama 🚀
 
+
+
+### 💌 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/sabrina-ganeshswara-putri-0a94582b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pink?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<!-- 🌸 Cute Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
